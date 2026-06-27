@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajeswari Kambhampati
 
-<!--
-**RajeswariKambhampati/RajeswariKambhampati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI Engineer | Data Science Intern @ Labmentix
 
-Here are some ideas to get you started:
+I am passionate about building AI-powered applications that solve real-world problems through Data Science, Machine Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Power BI
+- FastAPI
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- LangChain
+- RAG
+- Agentic AI
+
+---
+
+## 🚀 Current Projects
+
+- AI Travel Planner
+- PhonePe Data Science Dashboard
+- Crime Intelligence Platform
+
+---
+
+## 🎯 Career Goal
+
+To become an AI Engineer who builds intelligent applications that create real-world impact.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/kambhampatirajeswari
+- GitHub: https://github.com/RajeswariKambhampati
